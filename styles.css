@@ -30,10 +30,12 @@ h2{
     padding-left: 7px;
     padding-right: 7px;
 }
+.attribution {
+    margin: 25px;
+}
 @media(max-width: 375pxpx) {
     .main {
         margin-top: 20px;
         margin-bottom: 20px;
-
-    }
+       }
 }
